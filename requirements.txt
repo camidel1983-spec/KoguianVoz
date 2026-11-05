@@ -2,7 +2,7 @@ Plaintext
 streamlit
 librosa
 matplotlib
+numpy
 soundfile
 audio-recorder-streamlit
-huggingface-hub
 pandas

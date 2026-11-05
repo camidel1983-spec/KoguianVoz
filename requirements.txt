@@ -1,0 +1,8 @@
+Plaintext
+streamlit
+librosa
+matplotlib
+soundfile
+audio-recorder-streamlit
+huggingface-hub
+pandas
